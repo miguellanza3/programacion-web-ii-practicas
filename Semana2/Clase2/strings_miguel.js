@@ -1,7 +1,9 @@
 // while
+let soyUnString = "Hola mundo";
+let soyUnNumero = 4;
 
 let i = 0;
-while ( i < soyUnNumero.length) {
-  console.log(soyUnNumero[i]);
+while ( i < soyUnString.length) {
+  console.log(soyUnString[i]);
   i++;
 }
