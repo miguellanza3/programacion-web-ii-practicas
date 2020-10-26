@@ -8,4 +8,4 @@ function pitagoras(a, b) {
 
 }
 
-console.log(Math.hypot(numberOne, 2));
+console.log(Math.hypot(2, 4));
